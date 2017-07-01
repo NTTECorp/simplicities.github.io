@@ -190,7 +190,7 @@
 	}
 	
 	a{
-		color: #191919;
+		color: #F91D5F;
 		text-decoration:none;
 		outline:none;
 
@@ -200,9 +200,9 @@
 	a:active,
 	a:focus
 	{
-		text-decoration:none;
+		text-decoration: underline;
 		outline:none;
-		color: #505050;
+		color: #F91D5F;
 	
 	}
 	
@@ -210,9 +210,9 @@
 	a i:active,
 	a i:focus
 	{
-		text-decoration:none;
+		text-decoration: underline;
 		outline:none;
-		color: #505050;
+		color: #F91D5F;
 	}
 
 	
@@ -260,7 +260,7 @@
 
 	.button{
 		z-index: 0;
-		background: #191919;
+		background: #520A8E;
 		cursor: pointer;
 		color: #fff;
 		display: block;
